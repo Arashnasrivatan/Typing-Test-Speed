@@ -1,0 +1,26 @@
+@media (max-width: 768px) {
+    button {
+        padding: 0.5rem 1rem;
+        font-weight: 500;
+        font-size: 14px;
+        transition: 1s;
+    }
+
+    .logo {
+        height: 50px;
+        transition: 1s;
+    }
+
+    .logindiv2{
+        width: 80%;
+        transition: 1s;
+    }
+
+    input{
+        padding: 10px !important;
+        transition: 1s;
+    }
+
+
+
+}
